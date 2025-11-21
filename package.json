@@ -41,6 +41,7 @@
     "framer-motion": "latest",
     "lucide-react": "^0.454.0",
     "react": "^18",
+    "react-day-picker": "^9.11.1",
     "react-dom": "^18",
     "react-router-dom": "^6.27.0",
     "tailwind-merge": "^2.5.5"
@@ -48,6 +49,7 @@
   "devDependencies": {
     "@types/node": "^22",
     "@types/react": "^18",
+    "@types/react-day-picker": "^5.2.1",
     "@types/react-dom": "^18",
     "@vitejs/plugin-react": "^4.1.0",
     "autoprefixer": "^10.0.1",
